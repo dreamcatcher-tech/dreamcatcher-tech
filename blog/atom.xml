@@ -10,28 +10,28 @@
     <entry>
         <title type="html"><![CDATA[Ambient Attribution]]></title>
         <id>ambient-attribution</id>
-        <link href="https://dreamcatcher.land/dreamcatcher/blog/ambient-attribution"/>
+        <link href="https://dreamcatcher.land/blog/ambient-attribution"/>
         <updated>2020-12-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA["Mirror mirror, on the wall, who is the fairest of them all ?"]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
-        <link href="https://dreamcatcher.land/dreamcatcher/blog/welcome"/>
+        <link href="https://dreamcatcher.land/blog/welcome"/>
         <updated>2019-05-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello]]></title>
         <id>hello-world</id>
-        <link href="https://dreamcatcher.land/dreamcatcher/blog/hello-world"/>
+        <link href="https://dreamcatcher.land/blog/hello-world"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hola]]></title>
         <id>hola</id>
-        <link href="https://dreamcatcher.land/dreamcatcher/blog/hola"/>
+        <link href="https://dreamcatcher.land/blog/hola"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
     </entry>

@@ -9,28 +9,28 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Ambient Attribution]]></title>
-            <link>https://dreamcatcher.land/dreamcatcher/blog/ambient-attribution</link>
+            <link>https://dreamcatcher.land/blog/ambient-attribution</link>
             <guid>ambient-attribution</guid>
             <pubDate>Sun, 20 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA["Mirror mirror, on the wall, who is the fairest of them all ?"]]></description>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://dreamcatcher.land/dreamcatcher/blog/welcome</link>
+            <link>https://dreamcatcher.land/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
         </item>
         <item>
             <title><![CDATA[Hello]]></title>
-            <link>https://dreamcatcher.land/dreamcatcher/blog/hello-world</link>
+            <link>https://dreamcatcher.land/blog/hello-world</link>
             <guid>hello-world</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
         </item>
         <item>
             <title><![CDATA[Hola]]></title>
-            <link>https://dreamcatcher.land/dreamcatcher/blog/hola</link>
+            <link>https://dreamcatcher.land/blog/hola</link>
             <guid>hola</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
