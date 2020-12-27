@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{97:function(a){a.exports=JSON.parse('{"allTagsPath":"/dreamcatcher/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/dreamcatcher/blog/tags/hello"}')}}]);

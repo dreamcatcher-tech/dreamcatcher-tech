@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{78:function(a){a.exports=JSON.parse('{"allTagsPath":"/dreamcatcher/blog/tags","slug":"infosec","name":"infosec","count":1,"permalink":"/dreamcatcher/blog/tags/infosec"}')}}]);
