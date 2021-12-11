@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[36],{106:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Ambient Attribution","permalink":"/blog/2020/12/20/ambient-attribution"},{"title":"Welcome","permalink":"/blog/welcome"},{"title":"Hello","permalink":"/blog/hello-world"},{"title":"Hola","permalink":"/blog/hola"}]}')}}]);

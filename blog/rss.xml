@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Dreamcatcher Blog</title>
         <link>https://dreamcatcher.land/blog</link>
@@ -10,9 +10,36 @@
         <item>
             <title><![CDATA[Ambient Attribution]]></title>
             <link>https://dreamcatcher.land/blog/2020/12/20/ambient-attribution</link>
-            <guid>Ambient Attribution</guid>
+            <guid>/2020/12/20/ambient-attribution</guid>
             <pubDate>Sun, 20 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[k]]></description>
+            <content:encoded><![CDATA[<p><em>&quot;Mirror mirror, on the wall, who is the fairest of them all?&quot;</em></p><p>Contents</p><ol><li>Example project funding of Interblock</li><li>Example project funding of DOS</li></ol><p>Software companies make up trillions of dollars on the stockmarket, but the best
+quality software is actually free - how can we connect these two extremes to
+something more sustainable, and how can we get more software, of a higher
+quality, faster, and cost lest money ?</p><p>The utopian model of knowledge work is that all individuals permissionlessly contribute to whatever they are able, in whatever form they can, and can build on all prior contributions from anyone else, while receiving fair recompense based on the value they provided whenever their work is used and reused, all with zero overhead. This utopia is focused on providing pure utility to consumers, and enabling pure contribution from producers. This environment would be ideal Ambient Attribution.</p><p>To implement such perfection in our current reality needs compromise and ingenuity. A pragmatic form of Ambient Attribution as presented here has mechanisms to handle corruption, fairness discovery, attack mitigation (eg: lawsuits and corporation pressures), dishonesty, disputes, transaction costs, and management overheads, all while avoiding the perils of central system control. Whilst the perfected version may be some decades away technologically, we see within the rise of blockchains, the basic components required to implement a first iteration. This is what we set out to embody within the Dreamcatcher.</p><p>Based on two forces:</p><ol><li>fair credit due everywhere</li><li>zero friction for reuse</li></ol><p><img src="./2020-12-20-assets/good-fast-cheap.jpg" alt="Iron Triangle of Time vs Cost vs Quality"/></p><p>These qualities change the bigger the pool gets <!-- -->[graphic of pool size vs ideal
+match]<!-- --> Biggest pool is the lowest friction quality largely depends on the people
+you have available. let us assume their is an optimal piece of work, at an
+optimal price. the more people can do the work the better. less friction, zero
+friction company. zero liability, zero friction, never credit. credit being
+given by the worker, acting as a bank. <!-- -->[graph showing decreasing overall cost]</p><p><a href="./2020-12-20-assets/sweat-equity.jpg"><img src="/blog/2020-12-20-assets/sweat-equity.jpg" height="480"/></a></p><p>decreasing activation cost longer it survives, the better the quality a good
+programmer on their day public scrutiny, even if perceived can be called to
+account years after your coding</p><p>how much reward is fair ? surmise there is a single fair answer. self witness,
+shared witness, unto others as they unto you, wisdom of crowds image should be
+the same looking back, no different. how they see you should be same as how you
+see them. this is shared vision - aka reality. fairness is something that looks
+the same from all sides</p><p>What is fair payment ? Depend on each situation. Depends on the utility gained.</p><h2>Example: Funding Interblock</h2><p>What is the prize ?</p><h3>What is the product ?</h3><p>Equity stake in the upside. Consumers of the product are politly asked for fair
+payment</p><p>Types of input:</p><ol><li>Direct funds used by project command</li><li>Code contribution</li><li>Direct funded code contribution</li><li>Early customer</li></ol><p>We hope these models of labour, if successful, can have equivalents in the
+physical product world.</p><h2>Restrictions on investment</h2><p>Any projects that we endorse must follow the following rules, which are
+automated:</p><ol><li>Investors must prove they know what the project is about</li><li>Investors must be able to afford to lose their investment</li><li>Projects must have an earnest goal</li></ol><p>We are unable to register many of our projects with the SEC due to our
+requirements to stay anonymous. However we support the spirit of the SEC
+regulations, and we aim to exceed their intention.</p><p>To invest in a software project, you must have made a code commit of more than x
+weighted value, which signals that you know what the project is about, and you
+have contributed enough to be part of the enterprise - a worker, as it were -
+relying on the efforts of others and yourself to show return.</p><p>Work cannot be faked, copied, or otherwise, and it makes no difference to its
+utility if it was done by a machine, a person, or a small dog. It doesn&#x27;t matter
+if it was done in a virtual machine, bare metal, at gunpoint, or of freewill -
+it is like gold - it can be tested for purity, and not counterfeited, unlike
+fiat, and unlike promises, which is what fiat is.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -20,6 +47,7 @@
             <guid>welcome</guid>
             <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
+            <content:encoded><![CDATA[<p>Blog features are powered by the blog plugin. Simply add files to the <code>blog</code> directory. It supports tags as well!</p><p>Delete the whole directory if you don&#x27;t want the blog features. As simple as that!</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Hello]]></title>
@@ -27,6 +55,7 @@
             <guid>hello-world</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
+            <content:encoded><![CDATA[<p>Welcome to this blog. This blog is created with <a href="https://v2.docusaurus.io/"><strong>Docusaurus 2 alpha</strong></a>.</p><p>This is a test post.</p><p>A whole bunch of other information.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Hola]]></title>
@@ -34,6 +63,7 @@
             <guid>hola</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
