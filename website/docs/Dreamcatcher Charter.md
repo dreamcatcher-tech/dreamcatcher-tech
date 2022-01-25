@@ -153,6 +153,6 @@ Investment is a return for risk taken, and that risk taken is a perception of th
 1. Is censorship proof (resistant)
 1. Allows perfect anonymity
 
-## The Riddle of the Dreamcatcher
+## The Heart of the Dreamcatcher
 
-Attribution algorithm that includes its own payment
+Central to the Dreamcatcher is the Attribution Algorithm deployed by the Dreamcatcher itself. This is considered the current fairest known algorithm. Projects using this method of attribution are termed "Dreamcatcher Native". It is expected that this algorithm will be modular with different methods of calculation for different classes of work (such as project management vs marketing vs coding). It will balance current contributions with past historical contributions that have since been overtaken, will be cheap to compute, and may be statistically generated from in practice operation. Interestingly, this task includes within it the means for payment for its construction, and we expect this to be the most valuable NFA of the whole system.

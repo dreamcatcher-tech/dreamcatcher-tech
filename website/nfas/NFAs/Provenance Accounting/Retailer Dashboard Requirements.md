@@ -1,0 +1,3 @@
+When wholesalers and distributors are selling to retailers, significant value can be passed on to the retailers by giving them a dashboard that has visibility into the state of the supply chain, and provides forecasts for what the retailer is likely to need. The retailer is then prompted to purchase based on this data, which results in an overall smoothing of the supply chain. Often the retailer will not have great visibility of forecasting ability on their end anyway, so would be grateful for the prompting, in many cases.
+
+This functionality is enhanced by the retailer giving sales data to the distributor, but this would require some kind of integration with whatever system they operate.
