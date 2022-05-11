@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dreamcatcher.land/blog</id>
     <title>Dreamcatcher Blog</title>
-    <updated>2022-05-11T13:07:14.000Z</updated>
+    <updated>2022-05-11T13:11:11.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dreamcatcher.land/blog"/>
     <subtitle>Dreamcatcher Blog</subtitle>
@@ -11,14 +11,14 @@
         <title type="html"><![CDATA[drafts/App Complexity]]></title>
         <id>/drafts/App Complexity</id>
         <link href="https://dreamcatcher.land/blog/drafts/App Complexity"/>
-        <updated>2022-05-11T13:07:14.000Z</updated>
+        <updated>2022-05-11T13:11:11.000Z</updated>
         <content type="html"><![CDATA[<p><img loading="lazy" src="/assets/images/AppComplexityWeb2VsWeb3-1a4658ef4918bfdcca6e95bebbd6ae4a.png" width="1338" height="1162" class="img_E7b_"></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Background for The Pool Process]]></title>
         <id>/drafts/Background Pool Process</id>
         <link href="https://dreamcatcher.land/blog/drafts/Background Pool Process"/>
-        <updated>2022-05-11T13:07:14.000Z</updated>
+        <updated>2022-05-11T13:11:11.000Z</updated>
         <summary type="html"><![CDATA[Target]]></summary>
         <content type="html"><![CDATA[<h1>IN DRAFT</h1><h2 class="anchor anchorWithStickyNavbar_mojV" id="target">Target<a class="hash-link" href="#target" title="Direct link to heading">​</a></h2><p><a href="https://github.com/dreamcatcher-tech/dreamcatcher-tech.github.io/blob/master/website/nfas/Ideas/I11.md" target="_blank" rel="noopener noreferrer">I11 Request-Idea</a></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="inherits">Inherits<a class="hash-link" href="#inherits" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="dependencies">Dependencies<a class="hash-link" href="#dependencies" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="why-ask-for-requests-and-ideas-to-be-divided">Why ask for Requests and Ideas to be divided?<a class="hash-link" href="#why-ask-for-requests-and-ideas-to-be-divided" title="Direct link to heading">​</a></h2><p>It's not a vague vs precise thing. It's headmark vs compass bearing thing.</p><p>The general rule is that you should always know what your '1-up' is trying to do, regardless is what he's telling you to do. It's recognising that centralised command and control is inferior to decentralised command and control, but by decentralising, you could give misfires. You need to let the guys know not only what you think they need to do, but why you've asked them to do it.</p><p>So the strategic intent is the high level "Start with why". That's needed because it's not possible to write the tactical intent (the compass bearing) in sufficient detail to avoid fuck ups by itself, you need to give a headmark. But it's not enough to just state why you're trying to do something (the headmark), without giving some guidance.</p><p>The Ratcatchers and Regulators thing comes from Admiral Beatty and Admiral Jellicoe in WW1. Beatty was the ratcatcher, and didn't plan ahead at all well, and gave full reign to the captains under his command. Didn't go well, as they each had a different idea of what the overall objective was, and so perfectly executed their own commands, just in different directions. Jellicoe was the Regulator, and literally had a huge book of rules which all the captains under his command had to follow, and so was exceptionally brittle as soon as the hun came over the horizon.</p><p>The middle ground is the way. Don't over specify, don't leave people in doubt of what the whole point of the thing is.</p><p>So it's fundamentally different from nested Requests, in that strategy is about why, then there's a phase change to tactical which is about how, what, where etc.</p>]]></content>
     </entry>
