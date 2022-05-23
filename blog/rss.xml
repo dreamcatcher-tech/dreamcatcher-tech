@@ -4,7 +4,7 @@
         <title>Dreamcatcher Blog</title>
         <link>https://dreamcatcher.land/blog</link>
         <description>Dreamcatcher Blog</description>
-        <lastBuildDate>Sat, 14 May 2022 15:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2022 12:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,16 +12,25 @@
             <title><![CDATA[drafts/App Complexity]]></title>
             <link>https://dreamcatcher.land/blog/drafts/App Complexity</link>
             <guid>/drafts/App Complexity</guid>
-            <pubDate>Sat, 14 May 2022 15:20:07 GMT</pubDate>
+            <pubDate>Mon, 16 May 2022 12:10:05 GMT</pubDate>
             <content:encoded><![CDATA[<p><img loading="lazy" src="/assets/images/AppComplexityWeb2VsWeb3-1a4658ef4918bfdcca6e95bebbd6ae4a.png" width="1338" height="1162" class="img_E7b_"></p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Background for The Pool Process]]></title>
             <link>https://dreamcatcher.land/blog/drafts/Background Pool Process</link>
             <guid>/drafts/Background Pool Process</guid>
-            <pubDate>Sat, 14 May 2022 15:20:07 GMT</pubDate>
+            <pubDate>Mon, 16 May 2022 12:10:05 GMT</pubDate>
             <description><![CDATA[Target]]></description>
             <content:encoded><![CDATA[<h1>IN DRAFT</h1><h2 class="anchor anchorWithStickyNavbar_mojV" id="target">Target<a class="hash-link" href="#target" title="Direct link to heading">​</a></h2><p><a href="https://github.com/dreamcatcher-tech/dreamcatcher-tech.github.io/blob/master/website/nfas/Ideas/I11.md" target="_blank" rel="noopener noreferrer">I11 Request-Idea</a></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="inherits">Inherits<a class="hash-link" href="#inherits" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="dependencies">Dependencies<a class="hash-link" href="#dependencies" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="why-ask-for-requests-and-ideas-to-be-divided">Why ask for Requests and Ideas to be divided?<a class="hash-link" href="#why-ask-for-requests-and-ideas-to-be-divided" title="Direct link to heading">​</a></h2><p>It's not a vague vs precise thing. It's headmark vs compass bearing thing.</p><p>The general rule is that you should always know what your '1-up' is trying to do, regardless is what he's telling you to do. It's recognising that centralised command and control is inferior to decentralised command and control, but by decentralising, you could give misfires. You need to let the guys know not only what you think they need to do, but why you've asked them to do it.</p><p>So the strategic intent is the high level "Start with why". That's needed because it's not possible to write the tactical intent (the compass bearing) in sufficient detail to avoid fuck ups by itself, you need to give a headmark. But it's not enough to just state why you're trying to do something (the headmark), without giving some guidance.</p><p>The Ratcatchers and Regulators thing comes from Admiral Beatty and Admiral Jellicoe in WW1. Beatty was the ratcatcher, and didn't plan ahead at all well, and gave full reign to the captains under his command. Didn't go well, as they each had a different idea of what the overall objective was, and so perfectly executed their own commands, just in different directions. Jellicoe was the Regulator, and literally had a huge book of rules which all the captains under his command had to follow, and so was exceptionally brittle as soon as the hun came over the horizon.</p><p>The middle ground is the way. Don't over specify, don't leave people in doubt of what the whole point of the thing is.</p><p>So it's fundamentally different from nested Requests, in that strategy is about why, then there's a phase change to tactical which is about how, what, where etc.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Without Currency]]></title>
+            <link>https://dreamcatcher.land/blog/2022/05/14/blockchain-without-currency</link>
+            <guid>/2022/05/14/blockchain-without-currency</guid>
+            <pubDate>Sat, 14 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img loading="lazy" src="/assets/images/blockchain-without-currency-354cf8c79bb19bcf7236038dd19db2f0.jpg" width="2048" height="1365" class="img_E7b_"></p><p>The destiny of blockchain is to model the entire world. What point then is any instrinsic currency ?</p><p>Object oriented programming is the dominant form of computer modelling.</p><p>Our purpose is to facilitate trade between all currencies and all objects, predominantly labour, technology, customers, and assets.</p><p>With enough granularity and autonomous agents, we can get back to barter.</p><p>When we first started towards the Dreamcatcher, we wanted software defined companies, to cure the ailments we had in our current publicly listed companies. Now we're saying that each object comes with a software defined company attached via API.</p><p>Why aren't software defined companies popular ? What are manually operated companies the favourite ? Is there some relationship between the granularity of a thing before it becomes programmable ?</p><p>Points</p><ol><li>Future of all currencies is to be replaced with barter</li><li>Any crypto currency is arbitrary anyway</li><li>Object models allow direct trading of the item</li><li>We can model any currency, with provenance, and fractionalize it to nano portions</li><li>miners can earn whatever currency they wish</li><li>liquid exchanges let you swap for any other currency</li><li>There is no currency since the value we are creating is captured in the NFTs that make up the system</li></ol><p>Given that we built this whole thing on non-fungibility and modelling of the real world, it makes no sense to have a currency of our own.
+Any arbitrary fungible unit of value that has no internal control mechanism will periodically crash.
+With no regulation, this cycle is accelerated, as the system can be used as a 'bigger fool' scheme, but is harder to squash due to its distributed nature, with a multitude of bad actors having no coordination except the same pattern of ill intent.</p><p>Systems that launch with a 'shares' like nature, such as ICOs and other "Initial <!-- -->*<!-- -->" offerings bake in their demise from inception by setting the exectations and incentives of multiple powerful actors in the system.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Innovation Information Gradients]]></title>
