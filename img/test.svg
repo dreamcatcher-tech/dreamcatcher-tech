@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect x="190.007" y="53.154" width="65.55" height="32.337" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 11.7px;" x="202.868" y="67.666">Test</text>
+  <rect x="279.918" y="119.137" width="64.646" height="47.132" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="213.899" y="209.777" width="85.519" height="66.431" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="102.761" y="211.124" width="43.588" height="36.782" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <rect x="83.273" y="102.697" width="47.034" height="37.243" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 11.7px;" x="103.143" y="121.633">test2</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 11.7px;" x="301.136" y="140.38">test23</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 11.7px;" x="124.039" y="232.169">asdf</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 11.7px;" x="273.632" y="226.638">gasdf</text>
+</svg>
