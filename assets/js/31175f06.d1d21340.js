@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_dreamcatcher_tech_dreamcatcher_website=self.webpackChunk_dreamcatcher_tech_dreamcatcher_website||[]).push([[4586],{4678:e=>{e.exports=JSON.parse('{"label":"privacy","permalink":"/blog/tags/privacy","allTagsPath":"/blog/tags","count":2}')}}]);
