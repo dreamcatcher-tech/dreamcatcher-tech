@@ -7,7 +7,7 @@ slug: /
 
 ## Open
 
-| Packet                        |                                           | USD | [msm] | [inv] |
+| Packet                     |                                           | USD | [msm] | [inv] |
 | -------------------------- | ----------------------------------------- | :-: | :---: | :---: |
 | ![](/nfts/R03.ico.png)     | [R03 Ethereum Bridge](./Requests/R03)     |     |       |       |
 | ![](/nfts/R04.ico.png)     | [R04 Securities Guardian](./Requests/R04) |     |       |       |
@@ -20,13 +20,14 @@ slug: /
 
 ## Locked
 
-| Packet                    |                                    | USD | [msm] | [inv] |
-| ---------------------- | ---------------------------------- | :-: | :---: | :---: |
-| ![](/nfts/R10.ico.png) | [R10 Request-Idea](./Requests/R10) |     |       |       |
+| Packet                 |                                       |    Deal    |    $     |  Expires   |
+| ---------------------- | ------------------------------------- | :--------: | :------: | :--------: |
+| ![](/nfts/R10.ico.png) | [R10 Request-Idea](./Requests/R10)    |            |          |            |
+| ![](/nfts/I21.ico.png) | [I21 IPORM the IPFS ORM](./Ideas/I21) | [Deal 001] | $6000CAD | 2022-12-01 |
 
 ## Finalized
 
-| Packet                        |                                          | USD | [msm] | [inv] |
+| Packet                     |                                          | USD | [msm] | [inv] |
 | -------------------------- | ---------------------------------------- | :-: | :---: | :---: |
 | ![](/nfts/R01.ico.png)     | [R01 Dreamcatcher](./Requests/R01)       |     |       |   2   |
 | └── ![](/nfts/I07.ico.png) | [I07 Web Liquidity Pooling](./Ideas/I07) |     |       |       |
@@ -35,3 +36,4 @@ slug: /
 
 [msm]: ./AppData/Logs/temperbead
 [inv]: ./AppData/Logs/inverted-capital
+[deal 001]: ./Deals/I21-Deal_001.md
