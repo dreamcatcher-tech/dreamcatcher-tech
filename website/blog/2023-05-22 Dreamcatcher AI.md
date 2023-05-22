@@ -30,9 +30,7 @@ Moreover, Dreamcatcher AI introduces an interesting feedback loop that allows me
 
 The Dreamcatcher AI brings to life a revolutionary concept: a democratized, data-driven system of innovation attribution. It encourages active participation from all members, learning from their interactions and feedback to refine its understanding of fair attribution. This serves not just to improve the AI's decision-making abilities, but also to make the entire process more transparent and equitable.
 
-Furthermore, the AI system provides a clear mechanism for members to express their views on attribution, ensuring their voices are heard and considered in the decision
-
--making process. The integration of these feedback loops represents a fundamental shift in how innovation ecosystems can operate, moving from a static, hierarchical structure to a dynamic, democratised system.
+Furthermore, the AI system provides a clear mechanism for members to express their views on attribution, ensuring their voices are heard and considered in the decision-making process. The integration of these feedback loops represents a fundamental shift in how innovation ecosystems can operate, moving from a static, hierarchical structure to a dynamic, democratised system.
 
 To conclude, Dreamcatcher AI stands at the forefront of a new era of innovation, where data-driven decisions and democratic processes combine to deliver fair and transparent attribution. As members interact with the system, they are not just passive participants but active contributors to the AI's learning. Every interaction, every piece of feedback, is a step towards refining the system and making it more reflective of the collective will of the members. This continuous democratic process holds immense potential for the future of collaborative innovation, painting a promising picture of what's to come. 
 
