@@ -84,7 +84,7 @@ As a Buyer in the Dreamcatcher you start by stating the problem in business term
 <><br></br></><><br></br></>
 Then through Open Collaboration any Member is free to Innovation and improve.
 <><br></br></><><br></br></>
-Perhaps this problem is commonplace, and you only need 5% change in existing code to make it perfect for you.  In which case your cost and risk has just plumated.  
+Perhaps this problem is commonplace, and you only need 5% change in existing code to make it perfect for you.  In which case your cost and risk has just plummeted.  
 <><br></br></><><br></br></>
 Perhaps this problem is common in another industry and Ideas on how to solve it can be combined; perhaps through the Dreamcatcher Marketplace you contribute to ground-breaking Idea.
 <><br></br></><><br></br></>

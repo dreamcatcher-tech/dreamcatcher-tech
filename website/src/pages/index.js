@@ -32,7 +32,7 @@ Dreamcatcher directly connects economic reward to the value of Members' contribu
     imageUrl: 'img/undraw_startup.svg',
     description: (
       <>
-        Members on the Dreamcatcher deal in 'Packets' - unitary pieces software or documented knowledge whose quality has been verified by a trusted, disinterested QA and which address an identified need.  
+        Members on the Dreamcatcher deal in 'Packets' - unitary pieces software or documented knowledge whose quality has been verified by a trusted and neutral Quality Assurance service, and which address an identified need.  
         </>
     ),
   },
