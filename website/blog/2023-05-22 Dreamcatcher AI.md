@@ -8,6 +8,8 @@ _"The Dawn of Democratised Innovation Attribution"_
 
 ![](assets/2023-05-22-dreamcatcher-ai.jpeg)
 
+<!--truncate-->
+
 In the realm of collaborative innovation, a fundamental question often arises: "Who should receive the fruits of the collective labour?" The answer is often a tangle of complexity, especially when the collaborative process involves numerous contributors over extended periods. Dreamcatcher.land, an open, packetised innovation market, proposes a compelling solution to this problem, serving as a powerful foundation for a more advanced concept: the Dreamcatcher AI. This blog post will explore how Dreamcatcher AI extends the principles of Dreamcatcher.land to build a democratic, data-driven innovation attribution system.
 
 ## The Foundation: Dreamcatcher.land
