@@ -33,3 +33,5 @@ We can visualize the innovation process as a series of information circuits, eac
 However, just as in a packet-switched network, the ability to break down a large packet (or idea) into smaller pieces, transport them via alternate routes, and reassemble them at the destination can prove to be highly effective. This approach allows for parallel processing, resilience in the face of obstacles, and the integration of diverse perspectives.
 
 In conclusion, viewing innovation through the lens of packet-switching networks - or in our case, the Dreamcatcher network - opens up exciting possibilities for the way we conceptualize, manage, and execute innovation. By embracing the network as the innovator, we can build a more resilient, adaptive, and efficient innovation ecosystem.
+
+_Reference:_ [Packet Switching History](https://www.livinginternet.com/i/iw_packet_inv.htm)
