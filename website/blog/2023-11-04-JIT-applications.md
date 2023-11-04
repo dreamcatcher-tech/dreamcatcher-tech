@@ -6,9 +6,11 @@ description: ''
 
 _"Delivering the Dreamcatcher: AI Assembled Applications Just In Time"_
 
-![bing](assets/2023-11-04-jit-applications.png)
+![](assets/2023-11-04-jit-applications.png)
 
 <!--truncate-->
+
+<br/>
 
 > **It isn’t what you don’t know that gets you, it's what you know for sure that just ain’t so**
 >
