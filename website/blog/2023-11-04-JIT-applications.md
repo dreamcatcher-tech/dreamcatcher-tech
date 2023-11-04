@@ -35,7 +35,7 @@ To circumvent large portions of the software industry in the delivery of softwar
 
 **Monolithic to Modular** Transitioning to JIT applications as the sole delivery model empowers power users to tailor systems to their needs, fostering a culture of continuous enhancement. This transformation coalesces into a singular application, the Dreamcatcher, as the nexus for user interaction, facilitated through AI natural language assistant, nicknamed HAL.
 
-**Real-Time Lifecycle** The expedited lifecycle, transitioning from weeks or days to seconds, not only accelerates delivery but circumvents the traditional software industry frameworks, rendering them redundant.
+**Real-Time Lifecycle** The expedited lifecycle, transitioning from months or weeks to mere seconds, not only accelerates delivery but circumvents the traditional software industry frameworks, rendering them redundant.
 
 **Unification of Delivery** The Dreamcatcher, acting as the sole delivery conduit, simplifies user interaction by adhering to a uniform delivery mechanism. This overhaul obliterates the need for a conventional app store, as the AI scours for necessary components on-the-fly.  A single billing arrangement can be made, with single sign on, offering self sovereign data controls for all AI interactions.
 
@@ -93,7 +93,7 @@ The AI powered pricing model determines how much of the revenue goes to which re
     When Stucks are unable to be solved by AI, the humans need to contribute.  They need incentivization by way of payments, and when a Stuck is resolved and these funds dispersed to all who contributed, a portion will be due to the Dreamcatcher.  These fees are expected to be around the 5% mark, depending on what the pricing model computes as a fair cut.
 
 3. **JIT Application Value Creation**:
-   With HAL as a personal assistant, entities operating within the Dreamcatcher have deals brokered by AI, employing the pricing model to ensure fair pricing and fair attribution to all those who contributed in making the transaction possible, all in real-time. This peer-to-peer trading activityinteraction not only fosters a seamless trading environment but accentuates the community-driven ethos of the ecosystem due to its transparent nature.
+   With HAL as a personal assistant, entities operating within the Dreamcatcher have deals brokered by AI, employing the pricing model to ensure fair pricing and fair attribution to all those who contributed in making the transaction possible, all in real-time. This peer-to-peer trading activity fosters a seamless trading environment and accentuates the community-driven ethos of the ecosystem by to its transparent nature.
    
    
 
@@ -102,7 +102,7 @@ The AI powered pricing model determines how much of the revenue goes to which re
 By intertwining AI and blockchain with a dynamic pricing model and organic revenue streams, the ecosystem can enable permissionless work, where no negotiation for revenue sharing is required or even possible, and you can be given a reasonable calculated return on your contribution before you start working.  The pricing models key attributes are:
 
 1. **Dual-Mode Operation**:
-   The fulcrum of this economic model is an AI-driven pricing model operating in a dual-mode. On one hand, it delineates the cost of the end product to the consumer, and on the other, it apportions the price paid to each contributor based on their input.
+   The fulcrum of this economic model is an AI-driven pricing model operating in a dual-mode. On the buy side, prices the cost of the end product to the consumer, and on the sell side, it apportions the value paid to each contributor based on their input.
 
 2. **Dynamic Pricing**:
    The dynamism inherent in Jitters is mirrored in the pricing model. Its flexibility is crucial for fostering a fair environment conducive to maximal growth and economic throughput.  The rewards you receive for a contribution change as more is learned about the true value that has been delivered.
