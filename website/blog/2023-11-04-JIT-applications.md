@@ -147,6 +147,6 @@ These are the terms introduced here:
 
 **HAL** This is the name of the AI assistant that the Dreamcatcher presents as the primary means of intelligent interaction. All the resources of the Dreamcatcher are accessed via HAL.
 
-**Pricing Model** This is an ethical, fair, and transparent AI driven pricing model that decides who gets paid what based on all data available.
+**Pricing Model** A fair and transparent AI system that computes the price of any consumption or trade based on a personalized comprehensive analysis of the value generated based on the transaction.
 
-**Ambient Attribution** An ethical, fair, and transparent AI-driven pricing model within the Dreamcatcher that analyzes all available data to determine the distribution of payments among all contributors who played a role in initiating the payment. This system ensures that everyone involved in the creation or delivery of a service or product is recognized and compensated appropriately for their contributions.
+**Ambient Attribution** A fair and transparent AI system that allocates payments to contributors within the Innovation Network based on a comprehensive analysis of their involvement in generating the payment.
