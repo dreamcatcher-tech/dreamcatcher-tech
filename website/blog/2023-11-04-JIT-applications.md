@@ -6,7 +6,7 @@ description: ''
 
 _"Delivering the Dreamcatcher: AI Assembled Applications Just In Time"_
 
-<img src="assets/2023-11-04-jit-applications.png" width="400" height="400">
+<img src="assets/2023-11-04-jit-applications.png" width="400" height="400"/>
 
 <!--truncate-->
 <br/>
