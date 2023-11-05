@@ -40,9 +40,15 @@ Jitter delivery differs from conventional delivery as follows:
 
 **3 box UI** The Dreamcatcher is presented with only three windows: chat input, chat history, and a stateboard. The dynamic AI controlled rendering of the stateboard ensures optimal data presentation, adapting in real-time to user interactions.
 
+Any example of this interface design taken from Palantir is shown here:
+
 ![](assets/2023-11-04-palantir-chat.png)
 
-An example of this interface design in use can be seen [here](https://www.youtube.com/watch?v=XEM5qz__HOU)
+This is a breakdown of the essential elements of the interface:
+
+![](assets/2023-11-04-palantir-markup.png)
+
+A video example of this interface design in use can be seen [here](https://www.youtube.com/watch?v=XEM5qz__HOU) in use for the US military, which we found during a competitor search.
 
 ## Contrast to the software industry
 
