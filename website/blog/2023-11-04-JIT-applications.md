@@ -21,24 +21,24 @@ In the past ten years, there has been an increase in the use of applications and
 
 We are now shifting from a static to a dynamic application delivery model.
 
-Here, AI assembles applications just in time, tailored to the user's instantaneous needs. Our blockchain makes programming less complex, so in some cases the AI can do that programming in real-time. By complete accident, the API for our blockchain is exactly the API OpenAI has chosen for letting GPT4 make API calls, meaning we can integrate AI with no translation. In response, we have named our blockchain framework Artifact, as it is that which the AI leaves behind.
+Here, AI assembles applications just in time, tailored to the user's instantaneous needs. Our blockchain makes programming less complex, so in some cases the AI can do that programming in real-time. By complete accident, the API for our blockchain is exactly the API OpenAI has chosen for letting GPT4 make API calls, meaning we can integrate AI seamlessly. In response, we have named our blockchain framework Artifact, as it is that which the AI leaves behind.
 
 If a program is both delivered and coded in natural language, this reduces the distance between developers and users, letting users more directly engage with the system without the usual hindrance of the software industry.
 
 ## Changes to the application delivery model
 
-Just-In-Time AI assembled applications - hereby refered to as 'Jitters' - are delivered in a single application, where user interaction is by natural language discourse with an AI assistant.
-The single application is called Dreamcatcher, and the AI assistant is called HAL.
+Just-In-Time AI assembled applications - hereby refered to as 'Jitters' - are delivered through a single user interface, where user interaction is by natural language discourse with an AI assistant.
+The single user interface is called Dreamcatcher, and the AI assistant is called HAL.
 
 Jitter delivery differs from conventional delivery as follows:
 
-**From applications to components** A single application that dynamically adapts empowers users to continuously tailor systems to their needs by composition, which encourages Jitter components to be modular and compatible.
+**From applications to components** A single user interface that continuously adapts allows users to tailor systems to their needs through composition, encouraging Jitter components to be modular and compatible.
 
-**Real-time lifecycle** A single application with just in time composition allows enhancements to Jitters to be enjoyed within seconds, instead of months, and to be integrated continously rather than via separate update processes and release cycles for each application
+**Real-time lifecycle** Just-In-Time composition allows enhancements to Jitters to be enjoyed within seconds, instead of months, and to be integrated continously rather than via separate update processes and release cycles for each application
 
-**Unification of Delivery** A single delivery conduit supersedes the need for a conventional app store, as HAL scours for necessary components on-the-fly. A single billing arrangement can be made with the user, as well as a single authentication challenge, giving the user complete control of all data and AI interactions.
+**Unification of Delivery** Just-In-Time delivery removes the need for a conventional app store, as HAL scours for necessary components in real-time. A single billing arrangement can be made with the user, as well as a single authentication challenge, giving the user complete control of all data and AI interactions.
 
-**3 box UI** The Dreamcatcher is presented with only three windows: chat input, chat history, and a stateboard. The dynamic AI controlled rendering of the stateboard ensures optimal data presentation, adapting in real-time to user interactions.
+**Three Box UI** The Dreamcatcher is presented with only three windows: chat input, chat history, and a stateboard. The dynamic AI controlled rendering of the stateboard ensures optimal data presentation, adapting in real-time to user interactions.
 
 An example of this interface design taken from Palantir is shown here:
 
@@ -76,13 +76,13 @@ The Innovation Network within the Dreamcatcher is engaged whenever HAL gets stuc
 
 1. **A Stuck as the Unit of Innovation**:
    When HAL identifies that it is genuinely stuck in its service to the user, it creates an object out of it, named a "Stuck". These are NFTs on a public blockchain, and embody a problem within the Dreamcatcher. Stucks are valuable, as a high quality problem statement is the critical step in getting a high quality solution.
-1. **Funding as incentivization** Knowing that HAL has already vetted a Stuck as being unique, humans can put funding against a Stuck to incentivize its solution, and HAL helps advertise the problem to those best suited to solve it.
+1. **Funding as incentivization** Knowing that HAL has already vetted a Stuck as being unique, funding can be put against a Stuck to incentivize its solution, and HAL helps advertise the problem to those best suited to solve it.
 
 1. **Integration within Jitters**:
    Once solved, HAL verifies the solution, the funds are dispersed, and the solution is immediately available to be incorporated into Jitters. Once it gathers traction within Jitter use, consumption payments start to flow to the contributors of the Stuck.
 
 1. **Innovation becomes a Collective Endeavor**:
-   The decentralized and AI integrated nature of the Innovation Network fosters a collective endeavor towards problem-solving. It makes users a collaborative part of continuous improvement, with an openness that should outperform closed innovation.
+   The decentralized and AI integrated nature of the Innovation Network fosters a collective endeavor towards problem-solving. It makes users a collaborative part of continuous improvement, with an openness and connectedness that should outperform closed and disconnected innovation.
 
 ## Funding, Pricing, and Revenue
 
@@ -98,7 +98,7 @@ The only type of funding in the system is escrow of funds against a Stuck to inc
 
 ### Pricing Model:
 
-Setting the price of consumption of Jitters is a difficult and delicate subject. The just in time nature prohibits a manual pricing model, and so the automated version necessary for operation is provided:
+Setting the price of consumption of Jitters is a difficult and delicate subject. The just in time nature prohibits a manual pricing model, and so the principles behind the automated version necessary for operation is provided:
 
 #### **Dynamic Pricing**:
 
@@ -135,18 +135,16 @@ These are the terms introduced here:
 
 **Jitters** Applications assembled just in time by AI - brings the ability to deliver a feature a user asked for unforeseen by the developers, without any software release lifecycle
 
-**Stucks** Units of innovation - either open and needing to be done or resolved and usable in jitters. Represented as NFTs and can be funded and traded. They are the target of attribution payments calculated by Attribution.
+**Stucks** Units of innovation - either open and needing to be done or resolved and usable in Jitters. Represented as NFTs and can be funded and traded. They are the target of attribution payments calculated by Ambient Attribution.
 
-**Stuck NFT** A Stuck that was considered important enough to expend gas on an ethereum compatible chain to turn it into an NFT which can be funded and traded
+**Stuck NFT** A Stuck that was considered important enough to expend gas on an ethereum compatible chain to turn it into an NFT which can be funded and traded.
 
 **The Stucks Loop** The innovation process where things that are stuck are turned into NFTs and worked on in a distributed fashion, and funded in a distributed way. Ambient Attribution disperses usage payments to the Stucks that the Jitter consumed to deliver value.
 
-**AINode** An AI capable node - each blockchain object is natively AI capable - this is the atomic unit of composition to assemble jitters
-
-**Artifact** The name for the blockchain framework we have developed that supports running AINodes with compute resources such as cpu, gpu, storage, networking, and consensus. It also provides side effect abilities to interface with external systems. It is that which the AI leaves behind.
+**Artifact** The name for the blockchain framework we have developed that supports running AI enhanced blockchain objects with compute resources such as cpu, gpu, storage, networking, and consensus. It also provides side effect abilities to interface with external systems. It is the permanent memory left behind by the impermanent AI.
 
 **HAL** This is the name of the AI assistant that the Dreamcatcher presents as the primary means of intelligent interaction. All the resources of the Dreamcatcher are accessed via HAL.
 
-**Pricing Model** A fair and transparent AI system that computes the price of any consumption or trade based on a personalized comprehensive analysis of the value generated based on the transaction.
+**Pricing Model** The price setting algorithm. A fair and transparent AI system that computes the price of any consumption or trade based on a personalized comprehensive analysis of the factors involved.
 
-**Ambient Attribution** A fair and transparent AI system that allocates payments to contributors within the Innovation Network based on a comprehensive analysis of their involvement in generating the payment.
+**Ambient Attribution** The disperal of revenue algorithm. A fair and transparent AI system that allocates payments to contributors within the Innovation Network based on a comprehensive analysis of their involvement in generating the payment.
