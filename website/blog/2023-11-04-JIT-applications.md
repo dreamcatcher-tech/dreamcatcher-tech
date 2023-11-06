@@ -62,12 +62,12 @@ We challenge this notion in the post Turing Test world.
 
 ### The Old Way (months long)
 
-![](assets/2023-11-04-software-development-lifecycle.png)
+![A horizontal flowchart representing the 'Seven Phases of Software Development Life Cycle': starting with 'Planning' depicted by a clipboard with a checklist; 'Define Requirements' with a document icon listing specifications; 'Design & Prototyping' indicated by a question mark for brainstorming designs; 'Software Development' shown with a gear containing binary code for the coding process; 'Testing' with a magnifying glass over a document for defect verification; 'Deployment' illustrated by a computer with a launching rocket for software release; and 'Operations & Maintenance' with crossed wrench and screwdriver for ongoing updates, all phases connected by a blue line indicating progression from conception to deployment and maintenance](assets/2023-11-04-software-development-lifecycle.png)
 This process would typically take weeks or months to cycle through and adapt to whatever changes had occured or been discovered since initiation, and the cost is typically high since human labour is required. The output is usually wrong in some way, and often not aimed at a single specific user request due to economic infeasibility.
 
 ### Just In Time (seconds long)
 
-![](assets/2023-11-04-agile-loop.png)
+![An image depicting a circular, cyclic software development process, using arrows that flow clockwise and a central gear icon. The outer cycle consists of six arrows in varying colors representing different phases: 'Plan' (purple), 'Design' (blue), 'Develop' (light blue), 'Test' (blue), 'Deploy' (pink), and 'Review' (red). Each arrow points to the next, illustrating the continuous nature of the process. The gear at the center has a checkmark, possibly indicating the successful completion of the cycle or the ongoing work. 'Launch' is written on a standalone purple arrow that breaks out from the 'Review' phase, emphasizing the progression to product launch. The design suggests a dynamic and iterative approach to software development, with a focus on regular reviews and improvements](assets/2023-11-04-agile-loop.png)
 In the Dreamcatcher, this whole cycle is managed by AI in very small chunks, at the instant the user wants something. Cycle time is measured in seconds, and cost is typically less than a cent per loop. However not every user request can be solved by HAL, and so when the system gets stuck on something, a broader innovation cycle is required involving a network of incentivized human innovation
 
 ## The Innovation Network
