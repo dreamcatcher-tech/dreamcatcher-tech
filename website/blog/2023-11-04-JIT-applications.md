@@ -147,4 +147,4 @@ These are the terms introduced here:
 
 **Pricing Model** The price setting algorithm. A fair and transparent AI system that computes the price of any consumption or trade based on a personalized comprehensive analysis of the factors involved.
 
-**Ambient Attribution** The disperal of revenue algorithm. A fair and transparent AI system that allocates payments to contributors within the Innovation Network based on a comprehensive analysis of their involvement in generating the payment.
+**Ambient Attribution** The dispersal of revenue algorithm. A fair and transparent AI system that allocates payments to contributors within the Innovation Network based on a comprehensive analysis of their involvement in generating the payment.
