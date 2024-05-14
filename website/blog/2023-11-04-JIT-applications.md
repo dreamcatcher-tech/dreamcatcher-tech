@@ -19,7 +19,7 @@ Since 1950, the [Turing Test](https://en.wikipedia.org/wiki/Turing_test) has bee
 
 In the past ten years, there has been an increase in the use of applications and what these applications can do. However, software construction efficiency has not advanced nearly as much. Our blockchain application framework was designed to make programming less complex, but it didn't address how to make communication between people building the software more efficient.
 
-We are now shifting from a static to a dynamic application delivery model.
+We are now shifting the Dreamcatcher application delivery model from static to dynamic delivery.
 
 Here, AI assembles applications just in time, tailored to the user's instantaneous needs. Our blockchain makes programming less complex, so in some cases the AI can do that programming in real-time. By complete accident, the API for our blockchain is exactly the API OpenAI has chosen for letting GPT4 make API calls, meaning we can integrate AI seamlessly. In response, we have named our blockchain framework Artifact, as it is that which the AI leaves behind.
 
