@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dreamcatcher.land/blog</id>
     <title>Dreamcatcher Blog</title>
-    <updated>2023-11-04T00:00:00.000Z</updated>
+    <updated>2024-09-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dreamcatcher.land/blog"/>
     <subtitle>Dreamcatcher Blog</subtitle>
     <icon>https://dreamcatcher.land/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hurry up and Wait]]></title>
+        <id>/2024/09/18/hurry-up-and-wait</id>
+        <link href="https://dreamcatcher.land/blog/2024/09/18/hurry-up-and-wait"/>
+        <updated>2024-09-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p><em>"Hurry up and wait: The coming amplification of human effort"</em></p><p><img loading="lazy" src="/assets/images/2024-09-18-hurry-up-and-wait-a814a7b1d024ce947a6778408ef1493b.webp" width="1024" height="1024" class="img_ev3q"></p><br><p>I have attempted to express our waiting strategy in a formula. Waiting is almost
+never the right choice, but we are looking at a once in a lifetime amplification
+of effort. The below formula&nbsp;then&nbsp;applies:</p><p><img loading="lazy" src="/assets/images/2024-09-18-formula-e53044953b52e98a81a21bd945e89976.jpg" width="1412" height="1600" class="img_ev3q"></p><p>As an example for a 12 month project, waiting makes sense anywhere up to 8
+months, if we consider an amplication&nbsp;factor&nbsp;of&nbsp;3:</p><p><img loading="lazy" src="/assets/images/2024-09-18-example-0f3749d9c2e15ac167fe2c954c9d8e11.jpg" width="1471" height="1430" class="img_ev3q"></p><p>However I think our amplification will be more like 10x or higher, since we will
+be amplifying the number of humans we can command, and they will
+be&nbsp;amplified&nbsp;also.</p><p>I'm not sure how to accurate express that type of interdependent amplification,
+but its&nbsp;large,&nbsp;anyways. This is why we think it is best to focus solely on
+getting the amplification tooling working for ourselves first, then leverage
+that to&nbsp;do&nbsp;other&nbsp;tasks.</p><p><img loading="lazy" src="/assets/images/2024-09-18-threshold-waiting-time-e97df09db574c0f670471558ef164ce8.png" width="1470" height="1322" class="img_ev3q"></p><p>From this graph, the amplification factor isn't nearly as dominant as both the
+time to wait for the amplification to arrive and the total project time for the
+intended use of the&nbsp;amplification. Hence why doing nothing else but getting the
+amplication tooling working&nbsp;seems&nbsp;best, and given that we have many projects we
+can target with it, of varying time frames, there is almost no delay for the
+tooling that isn't worth waiting for, especially in the variances we are
+expecting, which worst case another 6 months worth of revisions, which
+seems&nbsp;highly&nbsp;unlikely</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JIT Application Delivery]]></title>
         <id>/2023/11/04/JIT-applications</id>
