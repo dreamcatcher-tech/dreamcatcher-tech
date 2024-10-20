@@ -21,6 +21,16 @@ for deterministic computing (classical code) and probabilistic computing (AI),
 enabling these two paradigms to work together effectively by presenting as a
 single, highly tested, reusable unit.
 
+In order for these two paradigms to merge, we can simultaneously merge in the
+web API paradigm which is foundational to cloud computing, and add in the
+blockchain paradigm, providing a highly cohesive means of packaging
+functionality into composable units.
+
+If we can bridge between natural language generators and conventional code
+execution, then we can also bridge between conventional code execution flavours
+for no extra effort, enabling python apps to call rust apps to call javascript
+apps and so on.
+
 ## Rationale for a New Package Format
 
 ### Bridging Programming Languages and AI through JSON
@@ -37,6 +47,17 @@ languages using JSON, the "napp" format ensures compatibility with AI and
 natural language processing systems. This approach simplifies cross-language
 interoperability and leverages the capabilities of LLMs in understanding and
 generating JSON-formatted data.
+
+### An AI friendly package format
+
+The current packaging tools were all created before AI was mainstream. The
+formats were made to cater to humans, and they made design choices for adoption
+and freedom, rather than practicality and correctness. If a package format is
+intended to be used mostly by an AI, then it must make sense to the AI
+naturally, it must be minimal with the least number of surprises being possible
+in it, and it must favour compact units rather than large sprawling megamodules,
+which are torturous for both humans and AIs alike, but not really
+disincentivized in traditional package formats.
 
 ## The "napp" Format Specification
 
