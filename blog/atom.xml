@@ -56,7 +56,14 @@ persistent sessions.</p></li><li><p><strong>AI-Native Interface</strong>: "napp"
 supporting natural language interfaces that allow AI systems to effectively
 perform function calls.</p></li></ul><ul><li><p><strong>Comprehensive Documentation</strong>: Inclusion of descriptions, usage examples,
 API specifications, and metadata to facilitate developer engagement.</p></li><li><p><strong>Testing and Validation</strong>: Provision of tests and example runs to assess
-package functionality and estimate execution costs prior to deployment.</p></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="use-cases-and-applications">Use Cases and Applications<a class="hash-link" href="#use-cases-and-applications" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="serverless-platform-integration">Serverless Platform Integration<a class="hash-link" href="#serverless-platform-integration" title="Direct link to heading">​</a></h3><p>"napp" packages can be deployed on serverless platforms, allowing developers to
+package functionality and estimate execution costs prior to deployment.</p></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-api-gateway">The API gateway<a class="hash-link" href="#the-api-gateway" title="Direct link to heading">​</a></h2><p>If we have a standard way to make API calls out, then a hosting platform can
+allow consumers to have a single billing relationship with the hoster, but be
+consuming a plethora of API services that have a billing relationship with the
+hoster or some other providing party. The end consumers do not have to bother
+themselves with half a dozen different API keys and accounts that they have to
+manage, they simply pay the hoster for what they consume.</p><p>The gateway being a json interface allows mocking and switching of the gateway
+dependency, so a napp execution can be moved between hosters, and between
+gateway providers, and still be assured of correct functionality.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="use-cases-and-applications">Use Cases and Applications<a class="hash-link" href="#use-cases-and-applications" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="serverless-platform-integration">Serverless Platform Integration<a class="hash-link" href="#serverless-platform-integration" title="Direct link to heading">​</a></h3><p>"napp" packages can be deployed on serverless platforms, allowing developers to
 execute applications at scale without managing infrastructure. They support API
 calls over the network, facilitating integration into larger systems and
 enabling rapid deployment.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="browser-compatibility">Browser Compatibility<a class="hash-link" href="#browser-compatibility" title="Direct link to heading">​</a></h3><p>"napp" packages compatible with browser environments can run directly within
@@ -64,7 +71,22 @@ browsers by leveraging modern web technologies, enabling developers to build
 rich, interactive web applications with minimal configuration.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="ai-and-llm-integration">AI and LLM Integration<a class="hash-link" href="#ai-and-llm-integration" title="Direct link to heading">​</a></h3><p>By exposing functions that are optimized for AI-driven invocation, "napp"
 packages simplify interactions with LLMs. AI systems can seamlessly interface
 with packages through JSON parameters and natural language queries, thus
-enhancing AI-driven development workflows.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a class="hash-link" href="#conclusion" title="Direct link to heading">​</a></h2><p>The "napp" format provides a comprehensive approach to package design for the
+enhancing AI-driven development workflows.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="advantages-over-current-package-managers">Advantages over current package managers<a class="hash-link" href="#advantages-over-current-package-managers" title="Direct link to heading">​</a></h2><p>Current package manages break the provenance between the git commits that
+produced the end result and the end result itself. They also compress the
+finished item which gains space for this package but loses deduplication with
+other similar packages made up of some of the same components. A napp package is
+a git commit, so it has no loss of fidelity from how it was made to how it is
+consumed.</p><p>Being AI native, which means the discovery is intended to be done by AI on the
+fly, allows shifting cognitive burden from the developers and onto the AI.
+Deduplication of similar packages dampens namespace pollution, and a semantic
+firewall ensures that a packages advertised functions match what the function
+calls return.</p><p>Running on a blockchained execution environment, side effects can be controlled,
+and so a napp package has strong security guarantees about the leakage of
+information during its execution due to the strong isolated box it gets run
+within.</p><p>Cost of execution being built in to the package manager also allows control of
+runaway code as it runs out of credits, but also incentivizes more optimal
+versions to be created, since the faster improved version will receive more
+profit share from the hosters.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a class="hash-link" href="#conclusion" title="Direct link to heading">​</a></h2><p>The "napp" format provides a comprehensive approach to package design for the
 AI-integrated development ecosystem. By unifying cross-language interfaces,
 enhancing security, and integrating deterministic and probabilistic computing
 paradigms, "napp" offers a robust framework for AI-native applications. We
