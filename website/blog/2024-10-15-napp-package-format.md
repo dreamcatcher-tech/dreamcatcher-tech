@@ -99,6 +99,19 @@ disincentivized in traditional package formats.
 * **Testing and Validation**: Provision of tests and example runs to assess
   package functionality and estimate execution costs prior to deployment.
 
+## The API gateway
+
+If we have a standard way to make API calls out, then a hosting platform can
+allow consumers to have a single billing relationship with the hoster, but be
+consuming a plethora of API services that have a billing relationship with the
+hoster or some other providing party. The end consumers do not have to bother
+themselves with half a dozen different API keys and accounts that they have to
+manage, they simply pay the hoster for what they consume.
+
+The gateway being a json interface allows mocking and switching of the gateway
+dependency, so a napp execution can be moved between hosters, and between
+gateway providers, and still be assured of correct functionality.
+
 ## Use Cases and Applications
 
 ### Serverless Platform Integration
@@ -120,6 +133,31 @@ By exposing functions that are optimized for AI-driven invocation, "napp"
 packages simplify interactions with LLMs. AI systems can seamlessly interface
 with packages through JSON parameters and natural language queries, thus
 enhancing AI-driven development workflows.
+
+## Advantages over current package managers
+
+Current package manages break the provenance between the git commits that
+produced the end result and the end result itself. They also compress the
+finished item which gains space for this package but loses deduplication with
+other similar packages made up of some of the same components. A napp package is
+a git commit, so it has no loss of fidelity from how it was made to how it is
+consumed.
+
+Being AI native, which means the discovery is intended to be done by AI on the
+fly, allows shifting cognitive burden from the developers and onto the AI.
+Deduplication of similar packages dampens namespace pollution, and a semantic
+firewall ensures that a packages advertised functions match what the function
+calls return.
+
+Running on a blockchained execution environment, side effects can be controlled,
+and so a napp package has strong security guarantees about the leakage of
+information during its execution due to the strong isolated box it gets run
+within.
+
+Cost of execution being built in to the package manager also allows control of
+runaway code as it runs out of credits, but also incentivizes more optimal
+versions to be created, since the faster improved version will receive more
+profit share from the hosters.
 
 ## Conclusion
 
