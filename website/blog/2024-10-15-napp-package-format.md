@@ -61,6 +61,14 @@ disincentivized in traditional package formats.
 
 ## The "napp" Format Specification
 
+A napp is a way to export "JSON functions" from a package of code. JSON
+functions are a protocol for invoking a code function in a standard and inert
+way. It makes the function message passing be explicit between packages. It is
+required as a way to allow LLMs which generate text to interface with code.
+
+These packages of functions can then be statically wired together using json, or
+be wired together dynamically.
+
 ### Key Features
 
 - **Language-Agnostic Execution**: "napp" packages will support all major
@@ -111,6 +119,25 @@ manage, they simply pay the hoster for what they consume.
 The gateway being a json interface allows mocking and switching of the gateway
 dependency, so a napp execution can be moved between hosters, and between
 gateway providers, and still be assured of correct functionality.
+
+## The purpose of Artifact
+
+Whilst napp packages are readily runnable in many environments, a special
+opportunity presents in making a json function system bus to manage the function
+invocations.
+
+Because the functions are inert pieces of structured text, they lend well to
+immutability. Artifact then, is simply an execution environment for napps, where
+the message passing is represented in git commits, threads are represented in
+branches, and files are snapshotted as the git tree in each commit.
+
+Artifact then, is the execution environment of napps. It consists of an
+execution environment, a persistence layer, and a system bus for passing json
+function objects around.
+
+It takes conventional computers and combines them together to present a reliable
+execution environment for napps. Without the napp format, the reliable execution
+property would be difficult to provide.
 
 ## Use Cases and Applications
 
