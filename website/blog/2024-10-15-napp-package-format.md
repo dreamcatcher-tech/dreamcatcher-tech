@@ -154,6 +154,29 @@ enabling rapid deployment.
 browsers by leveraging modern web technologies, enabling developers to build
 rich, interactive web applications with minimal configuration.
 
+Further, because of the portability that json functions bring, a browser can
+request a napp to be run on far away computers, and still have it behave
+programmatically like it is running locally.
+
+## Streaming data
+
+Because JSON can be streamed, results can be streamed down over time. If the
+results were static files, we can stream the files down however this is only for
+the case where the files are computed before the response.
+
+Files that are generated in a streaming fashion could be handled by either a
+collection of commits that hold the incremental changes, or by a sideband mode
+that streams up to certain "keyframes" at which point a commit of the data is
+made, which serves for resumption and repeatability
+
+## Event streams
+
+Whilst the request response paradigm doesn't directly support event interfaces,
+the same effect can be achieved by two means. One is to watch a file on the
+filesystem and receive changes in that file, and the other is the client could
+register a channel with the host and receive reverse json invocations which
+would represent events.
+
 ### AI and LLM Integration
 
 By exposing functions that are optimized for AI-driven invocation, "napp"
