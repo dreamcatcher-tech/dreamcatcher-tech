@@ -38,7 +38,11 @@ intended to be used mostly by an AI, then it must make sense to the AI
 naturally, it must be minimal with the least number of surprises being possible
 in it, and it must favour compact units rather than large sprawling megamodules,
 which are torturous for both humans and AIs alike, but not really
-disincentivized in traditional package formats.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-napp-format-specification">The "napp" Format Specification<a class="hash-link" href="#the-napp-format-specification" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="key-features">Key Features<a class="hash-link" href="#key-features" title="Direct link to heading">​</a></h3><ul><li><p><strong>Language-Agnostic Execution</strong>: "napp" packages will support all major
+disincentivized in traditional package formats.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-napp-format-specification">The "napp" Format Specification<a class="hash-link" href="#the-napp-format-specification" title="Direct link to heading">​</a></h2><p>A napp is a way to export "JSON functions" from a package of code. JSON
+functions are a protocol for invoking a code function in a standard and inert
+way. It makes the function message passing be explicit between packages. It is
+required as a way to allow LLMs which generate text to interface with code.</p><p>These packages of functions can then be statically wired together using json, or
+be wired together dynamically.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="key-features">Key Features<a class="hash-link" href="#key-features" title="Direct link to heading">​</a></h3><ul><li><p><strong>Language-Agnostic Execution</strong>: "napp" packages will support all major
 programming languages, including Python, JavaScript, Go, and Rust. An
 efficient translation layer routes JSON calls to native function calls,
 enabling seamless interaction across languages.</p></li><li><p><strong>Security and Permissions</strong>: Each package explicitly defines its required
@@ -63,7 +67,16 @@ hoster or some other providing party. The end consumers do not have to bother
 themselves with half a dozen different API keys and accounts that they have to
 manage, they simply pay the hoster for what they consume.</p><p>The gateway being a json interface allows mocking and switching of the gateway
 dependency, so a napp execution can be moved between hosters, and between
-gateway providers, and still be assured of correct functionality.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="use-cases-and-applications">Use Cases and Applications<a class="hash-link" href="#use-cases-and-applications" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="serverless-platform-integration">Serverless Platform Integration<a class="hash-link" href="#serverless-platform-integration" title="Direct link to heading">​</a></h3><p>"napp" packages can be deployed on serverless platforms, allowing developers to
+gateway providers, and still be assured of correct functionality.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-purpose-of-artifact">The purpose of Artifact<a class="hash-link" href="#the-purpose-of-artifact" title="Direct link to heading">​</a></h2><p>Whilst napp packages are readily runnable in many environments, a special
+opportunity presents in making a json function system bus to manage the function
+invocations.</p><p>Because the functions are inert pieces of structured text, they lend well to
+immutability. Artifact then, is simply an execution environment for napps, where
+the message passing is represented in git commits, threads are represented in
+branches, and files are snapshotted as the git tree in each commit.</p><p>Artifact then, is the execution environment of napps. It consists of an
+execution environment, a persistence layer, and a system bus for passing json
+function objects around.</p><p>It takes conventional computers and combines them together to present a reliable
+execution environment for napps. Without the napp format, the reliable execution
+property would be difficult to provide.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="use-cases-and-applications">Use Cases and Applications<a class="hash-link" href="#use-cases-and-applications" title="Direct link to heading">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="serverless-platform-integration">Serverless Platform Integration<a class="hash-link" href="#serverless-platform-integration" title="Direct link to heading">​</a></h3><p>"napp" packages can be deployed on serverless platforms, allowing developers to
 execute applications at scale without managing infrastructure. They support API
 calls over the network, facilitating integration into larger systems and
 enabling rapid deployment.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="browser-compatibility">Browser Compatibility<a class="hash-link" href="#browser-compatibility" title="Direct link to heading">​</a></h3><p>"napp" packages compatible with browser environments can run directly within
